@@ -1,4 +1,5 @@
 # Sorteo de amigos
+El juego consiste en sortear una lista de amigos donde el usuario agregará nombre por nombre la lista que desee generar  
 _Visualización de la pantalla del juego_
 
 ![VISUALIZACION DE INICIO](https://github.com/user-attachments/assets/dba28419-c13c-4ab3-a577-ee221fa897bb)
